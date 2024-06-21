@@ -26,7 +26,7 @@ I am a 15 year old developer! I mainly develop web-applications with Python-Flas
 
 ### PC
 ![img](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![img](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![img](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![img](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![img](https://img.shields.io/badge/NVIDIA-RTX3070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![img](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
