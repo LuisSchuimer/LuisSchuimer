@@ -2,7 +2,7 @@
 ![img](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisSchuimer&theme=github_dark)
 
 ### Who am I?
-I am a 15 year old developer! I mainly develop web-applications with Python-Flask. My home country is Germany and I live in Velbert. I also go to school there at the "Geschwister-Scholl-Gymnasium".
+I am a 16 year old developer! I mainly develop web-applications with Python-Flask. My home country is Germany and I live in Velbert. I also go to school there at the "Geschwister-Scholl-Gymnasium".
 
 
 ### I work with:
