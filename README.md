@@ -16,16 +16,14 @@ I am a 16 year old developer! I mainly develop web-applications with Python-Flas
 ![img](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## My Workstations
-### HP-Labtop
-![img](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![img](	https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) 
-![img](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![img](https://img.shields.io/badge/Intel%20Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-![img](https://img.shields.io/badge/Intel%20HD%20Graphics%20620-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+### MacBook Air (2024)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![img](https://img.shields.io/badge/mac%20M3-0071C5?style=for-the-badge&logo=apple&logoColor=white) 
 ![img](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 
 ### PC
-![img](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![img](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![img](https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![img](https://img.shields.io/badge/NVIDIA-RTX3070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
